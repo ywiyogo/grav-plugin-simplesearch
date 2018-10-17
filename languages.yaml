@@ -107,3 +107,11 @@ da:
         SEARCH_RESULTS: "Søgeresultat"
         SEARCH_RESULTS_SUMMARY_SINGULAR: "Søgning: <strong>%s</strong> fandt et resultat"
         SEARCH_RESULTS_SUMMARY_PLURAL: "Søgning: <strong>%s</strong> fandt %s resultater"
+
+id:
+    PLUGIN_SIMPLESEARCH:
+        SEARCH_PLACEHOLDER: "Cari …"
+        SEARCH_RESULTS: "Hasil Pencarian"
+        SEARCH_RESULTS_SUMMARY_SINGULAR: "Query: <strong>%s</strong> satu temuan"
+        SEARCH_RESULTS_SUMMARY_PLURAL: "Query: <strong>%s</strong> %s temuan"
+        SEARCH_FIELD_MINIMUM_CHARACTERS: "Silahkan mencari dengan minimal %s karakter"
